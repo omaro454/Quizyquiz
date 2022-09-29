@@ -48,7 +48,6 @@ function getQuestion()
 
    choicesEl.appendChild(choiceNode);
  });
-}
 
 function questionClick() {
  if (this.value !== questions[currentQuestionIndex].answer) {
