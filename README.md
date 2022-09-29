@@ -1,6 +1,6 @@
 ## Coding Quiz Challenge ##
 
-In this challenge, there is a multiple choice application with questions relating to coding. The majority of questions were based on Javascript.
+In this challenge, there is a multiple choice application with questions relating to coding. The majority of questions were based on Javascript. The overall quiz is timed and with every missed answer the timer drops 10 seconds. After all questions are answered the total score is displayed and placed in a ranked scoring leaderboard. This "Highscore" page is added and displayed at the end of the quiz with previous attempts shown and their scores position>
 
 # User Story #
 
@@ -25,10 +25,10 @@ THEN I can save my initials and score
 # Deployed Application Link # 
 
 Github link: https://github.com/omaro454/Quizyquiz
-App Link: 
+App Link: https://omaro454.github.io/Quizyquiz/
 
 # Example Screenshots #
 
 ![Screenshot Home](/Assets/images/Screenshot1.png)
 ![Screenshot Home](/Assets/images/Screenshot2.png)
-![Screenshot Home](/Assets/images/Screenshot3.png)
+![Screenshot Home](/Assets/images/Screenshot3.png)git
